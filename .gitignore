@@ -1,0 +1,16 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+/author_images_a-i
+/author_images_j-r
+/author_images_s-z
+/book_covers
+/book_data
+/book_data_public
+/book_links
+/categories
+/logs
+config.json
+*.xlsx
