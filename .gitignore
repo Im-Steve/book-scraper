@@ -1,0 +1,21 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+/author_images
+/book_covers
+/book_data
+/book_data_public
+/book_images
+/book_links*
+/series_data
+/series_links
+/wp_book_data
+/wp_book_data_public
+/wp_book_links
+/categories
+/logs
+/temp
+config.json
+*.xlsx
